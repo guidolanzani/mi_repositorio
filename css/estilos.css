@@ -5,6 +5,13 @@
 	padding: 0;
 }
 
+
+ .opcionplateahover {
+	cursor pointer;
+	color darkred;
+	background white;
+
+}
 .body{
 	background-color: black;
 	font-family: Montserrat; 
